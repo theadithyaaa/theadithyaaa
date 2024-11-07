@@ -27,3 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theadithyaaa&show_icons=true&locale=en" alt="theadithyaaa" /></p>
 
+ 
+![snake gif](https://github.com/theadithyaaa/theadithyaaa/blob/output/github-snake-dark.svg)
+
