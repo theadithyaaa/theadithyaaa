@@ -1,3 +1,6 @@
+
+![Colorful Strokes General Souncloud Banner](https://github.com/user-attachments/assets/aa57db5e-7e73-4d2b-ae31-1701b629d229)
+
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
@@ -24,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theadithyaaa&show_icons=true&locale=en" alt="theadithyaaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theadithyaaa&" alt="theadithyaaa" /></p>
