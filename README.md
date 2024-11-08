@@ -1,15 +1,17 @@
 
 ![Colorful Strokes General Souncloud Banner](https://github.com/user-attachments/assets/aa57db5e-7e73-4d2b-ae31-1701b629d229)
 
-<h1 align="center">Hi 👋, I'm Adithya</h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adithya</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theadithyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="theadithyaaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theadithyaaa" alt="theadithyaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theadithyaaa" alt="theadithyaaa" /></a> </p>
 
 <hr>
-
+ <h3>About me...</h3>
+ 
 - 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **malsha.adithya95@gmail.com**
