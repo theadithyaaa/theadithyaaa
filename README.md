@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **malsha.adithya95@gmail.com**
 
-- ⚡ Fun fact **I can do 100 push ups in a row**
+- ⚡ Fun fact: **Johnny Lawrence is the real karate kid.**
 
   <div align="center">
   <h2> My Contributions </h2>
