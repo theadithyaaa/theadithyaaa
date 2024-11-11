@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theadithyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="theadithyaaa" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theadithyaaa&theme=matrix" alt="theadithyaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theadithyaaa&theme=darkhub" alt="theadithyaaa" /></a> </p>
 
 <hr>
  <h3>About me...</h3>
