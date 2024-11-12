@@ -18,10 +18,10 @@
 
 - ⚡ Fun fact: **Johnny Lawrence is the real karate kid.**
 
-  <div align="center">
+ <!--  <div align="center">
   <h2> Contributions </h2>
   
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/theadithyaaa/theadithyaaa/output/github-contribution-grid-snake-dark.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/theadithyaaa/theadithyaaa/output/github-contribution-grid-snake-dark.svg" />-->
  <h2 align="center"> Stats </h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
