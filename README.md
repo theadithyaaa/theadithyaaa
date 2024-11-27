@@ -1,5 +1,5 @@
 
-[Colorful Strokes General Souncloud Banner](https://github.com/user-attachments/assets/aa57db5e-7e73-4d2b-ae31-1701b629d229)
+![Colorful Strokes General Souncloud Banner](https://github.com/user-attachments/assets/aa57db5e-7e73-4d2b-ae31-1701b629d229)
 
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adithya</h1>
 <h3 align="center">A passionate full stack developer</h3>
